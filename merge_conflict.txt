@@ -1,1 +1,1 @@
-Bestand om ervoor te zorgen dat er een merge conflict ontstaat
+Bestand is nu aangepast in deze branch.
